@@ -26,7 +26,7 @@ Using the existing columns to create new columns.
 Techniques
 Fetch the data from the csv and using some python code and powerbi  and visualize the data  and predicting the next day current value using fbprophet module in python
   
-
+<img src="Screenshot (22).png" alt="">
 
 
 
