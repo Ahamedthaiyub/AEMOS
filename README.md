@@ -1,4 +1,4 @@
-# EMS-SYSTEM
+# EMS
 this is an energy monitoring system
 
 # Automated Energy Monitoring System(AEMS)
