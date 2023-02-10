@@ -1,32 +1,17 @@
 # EMS
-this is an energy monitoring system
+The Automated Energy Monitoring System (AEMS) is a cutting-edge solution for reducing energy costs and promoting energy efficiency in the manufacturing industry. The system is designed to provide real-time information about energy usage and generating tariffs for residential and industrial consumers. The objective of AEMS is to raise awareness about daily energy consumption and promote energy conservation.
 
-# Automated Energy Monitoring System(AEMS)
-# INTRODUCTION
-Energy costs can typically be around 30% and upwards for the manufacturing industry. Our automated energy monitoring system addresses, ways in which energy utilization can be made efficient and in turn result in energy savings.
-The objective of the product is to provide information about the energy usage of each device, which is used to audit the total energy usage and the generated tariff, in a resident or industry. 
-The concept of the product is to create awareness among the consumers about their daily energy usage, so they can reduce the energy usage, which in return reduces the resources used for the production of electricity. 
-Our real-time energy dashboard can make immediate changes in the consumption pattern and acts as a real-time energy audit tool. Each device can be remotely controlled in the webpage. 
-Our solutions make it possible to bring in behavioral changes which create awareness amongst users and our sophisticated analytics, give insights on managing the energy better.
-# Machine-learning-open folder for the dataset & the python file.
-In this project we create a resource optimization system with the help of machine learning attributes and some deep learning modules  . we also plotted several graphs using matplotlib , seaborn and chart_studio to make a better solution for the company . by this system we can improve our company better by predicting the future current of our device . since it is much more easier to find the difficulties that particular company .I’m damn surely saying that this project will definitely helpful in the big companies also. we also used other csv files,Matplotlib ,Seaborn ,Chart studio ,Skilearn Scikit Keras Time stamp API key for mapping Numpy’s and pandas
-Predict employee attrition:
-Procedures:
-1. Understanding the business problem.
-Energy management  is a huge problem across industries and  in household generally costs the company a lot for hiring, retraining, productivity and work loss for each employee who leaves. But our device definitely handle this problems.
-2. Converting into a data science problem.
-What can be done here is , we can build predictive model by supervised learning.
-3. Exploring the data.(EDA)
-Explorating the given data like the columns given by visualising or by getting the summary stats of the data.
-Packages used here for this visulaization are seaborn, matplotlib and  powerbi .
-4. Preprocessing of the data.
-Preprocessing includes removal of un-necessary columns, filling the missing data & converting the data into appropriate changes.
-5. Feature engineering.
-Using the existing columns to create new columns.
-Techniques
-Fetch the data from the csv and using some python code and powerbi  and visualize the data  and predicting the next day current value using fbprophet module in python
-  
-<img src="Screenshot (22).png" alt="">
+AEMS features a user-friendly, real-time energy dashboard that provides insights into energy consumption patterns and allows for remote control of each device. The system is based on advanced machine learning and deep learning techniques, including data visualization tools such as Matplotlib, Seaborn, and Chart Studio. The use of these techniques enables the creation of a predictive model to estimate future energy consumption.
+
+The project involves several stages, including data exploration and preprocessing, feature engineering, and the creation of a predictive model. The data is processed to remove any unnecessary columns and fill any missing values, while feature engineering involves creating new columns based on existing data. The predictive model is built using supervised learning, and the resulting device is expected to bring about positive changes in energy usage patterns and provide effective solutions for energy management problems.
+
+In the predictive model, the energy consumption of each device is represented as a function of time, denoted by E(t). The function E(t) can be modeled using a linear regression model or a more advanced model such as a neural network. The optimization of the model parameters can be performed using gradient descent or a similar optimization algorithm. The prediction error can be measured using the Mean Squared Error (MSE) formula, which is defined as:
+
+MSE = 1/n * Σ(E(t) - E'(t))^2
+
+where n is the number of data points, E(t) is the actual energy consumption, and E'(t) is the predicted energy consumption. The goal is to minimize the MSE and obtain an accurate prediction of future energy consumption.
+
+In conclusion, the Automated Energy Monitoring System (AEMS) offers a comprehensive and innovative solution for reducing energy costs and promoting energy efficiency in the manufacturing industry. The system's real-time energy dashboard and predictive model provide valuable insights into energy consumption patterns and offer the potential for significant energy savings. AEMS is a highly valuable tool for households and industries alike, and its impact on the energy sector is expected to be substantial.
 
 
 
