@@ -25,6 +25,7 @@ In both supervised and unsupervised learning, the prediction error can be measur
 In conclusion, the Automated Energy Monitoring System (AEMS) uses advanced machine learning algorithms to model and predict energy consumption patterns. The use of machine learning enables the system to provide real-time information and insights into energy usage, promoting energy efficiency and reducing energy costs. AEMS is a valuable tool for households and industries alike, and its impact on the energy sector is expected to be substantial.The Automated Energy Monitoring System (AEMS) offers a comprehensive and innovative solution for reducing energy costs and promoting energy efficiency in the manufacturing industry. The system's real-time energy dashboard and predictive model provide valuable insights into energy consumption patterns and offer the potential for significant energy savings. AEMS is a highly valuable tool for households and industries alike, and its impact on the energy sector is expected to be substantial.
 
 
+for any enquiries ping me:ahamedthaiyub27@gmail.com
 
 
 
