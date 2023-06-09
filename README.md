@@ -1,4 +1,4 @@
-# AEMOS
+# AEMOS -
 The Automated Energy Monitoring System (AEM0S) uses machine learning algorithms to model and predict energy consumption patterns. The main goal of the system is to minimize energy consumption and promote energy efficiency by providing real-time information and insights into energy usage. The machine learning algorithms used in AEMS can be either supervised or unsupervised learning.
 
 In supervised learning, the system is trained on a labeled dataset, where the input data (energy consumption) is paired with the target data (energy usage patterns). A common example of a supervised learning algorithm used in energy monitoring systems is a regression algorithm, such as linear regression or support vector regression (SVR). The regression model can be represented mathematically as:
