@@ -5,7 +5,7 @@ In supervised learning, the system is trained on a labeled dataset, where the in
 
 .
 E(t) = β0 + β1 * t + β2 * d + β3 * w + β4 * h + β5 * m + ... + βp * Xp
-
+,
 where E(t) is the energy consumption at time t, β0, β1, β2, ..., βp are the coefficients of the regression model, t is the time, d is the day of the week, w is the week of the year, h is the hour of the day, m is the month of the year, and Xp represents other features that may affect energy consumption.
 
 In unsupervised learning, the system is trained on an unlabeled dataset and aims to find patterns or structures in the data. A common example of an unsupervised learning algorithm used in energy monitoring systems is clustering, such as k-means or hierarchical clustering. The clustering algorithm groups similar energy consumption patterns together and provides insights into energy usage.
