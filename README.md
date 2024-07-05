@@ -3,7 +3,7 @@ The Automated Energy Monitoring System (AEM0S) uses machine learning algorithms 
 
 In supervised learning, the system is trained on a labeled dataset, where the input data (energy consumption) is paired with the target data (energy usage patterns). A common example of a supervised learning algorithm used in energy monitoring systems is a regression algorithm, such as linear regression or support vector regression (SVR). The regression model can be represented mathematically as:
 
-
+.
 E(t) = β0 + β1 * t + β2 * d + β3 * w + β4 * h + β5 * m + ... + βp * Xp
 ,
 where E(t) is the energy consumption at time t, β0, β1, β2, ..., βp are the coefficients of the regression model, t is the time, d is the day of the week, w is the week of the year, h is the hour of the day, m is the month of the year, and Xp represents other features that may affect energy consumption.
